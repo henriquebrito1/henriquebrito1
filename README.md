@@ -1,5 +1,5 @@
 -   👋 Olá, Sou Henrique Brito de Oliveira 
-- 👀 Atualmente sou Analista de Qualidade e testes de siftware (QA).
+- 👀 Atualmente sou Analista de Qualidade e testes de software (QA).
 - 🌱 Aprendi sobre as linguagens e ferramentas usadas na QA através do bootcamp do Grupo GFT pela plataforma da Digital Innovation one. ...
 - 👋- Apronfundei meus conhecimentos teóricos em Qualidade de software através do curso "Início Rápido em Testes de Software" promovido pela  Iterasys.
 
